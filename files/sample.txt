@@ -1,1 +1,2 @@
-This is Amol Magdum
+This is Amol Magdum.
+I am working as QA
