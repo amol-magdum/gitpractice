@@ -14,5 +14,8 @@ NOTE:
 ------- GIT COMMIT ----------
 NOTE: adding file to local repo
     git commit -m "fix-for -dropdown"
-    
 
+------- GIT PUSH ----------
+NOTE: pushing changes in local repo to remote repo
+    git push <remote repo name> <branch name>
+    git push origin master
