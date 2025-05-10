@@ -1,0 +1,28 @@
+diff --git a/README.md b/README.md
+index 425e83e..f6d1509 100644
+--- a/README.md
++++ b/README.md
+@@ -19,3 +19,22 @@ NOTE: adding file to local repo
+ NOTE: pushing changes in local repo to remote repo
+     git push <remote repo name> <branch name>
+     git push origin master
++
++------- GIT PULL ----------
++NOTE: pulls changes from remote to local repo as well as to working dir
++
++------- GIT FETCH ----------
++NOTE: pulls changes from remote to local repo
++
++-------- GIT MERGE ---------
++NOTE: 
++    git merge origin/master
++
++-------- GIT STASH ---------------
++NOTE: git stash save the changes temporarily to working dir, helpful when want to switch branch but not ready for commit yet
++    
++        git stash
++        git stash save "message"
++        git stash list
++        git stash apply stahs@{2} -> apply specific stash to working dir
++        git statch drop - > 
+\ No newline at end of file
