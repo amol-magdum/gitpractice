@@ -59,3 +59,9 @@ NOTE: git stash save the changes temporarily to working dir, helpful when want t
 
 -------- Git REBASE ----------
 git rebase is a command that moves or combines commits from one branch onto another, rewriting commit history in a linear way.
+
+-------- git LOG ------------
+View Recent Commits
+    git log --oneline -n 5
+
+    
